@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-    <img alt="website-badge" src="https://img.shields.io/website?url=https://crossbarv2.hubiodatalab.com/">
+    <a href="https://crossbarv2.hubiodatalab.com"><img alt="website-badge" src="https://img.shields.io/website?url=https://crossbarv2.hubiodatalab.com/"></a>
     <a href="https://arxiv.org/abs/xxxx.xxxxx"><img alt="arxiv-badge" src="https://img.shields.io/badge/arXiv-xxxx.xxxxx-b31b1b.svg"></a>
     <img alt="github-star-badge" src="https://img.shields.io/github/stars/HUBioDataLab/CROssBARv2">
     <img alt="github-license-badge" src="https://img.shields.io/github/license/HUBioDataLab/CROssBARv2">
