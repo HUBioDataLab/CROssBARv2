@@ -1,0 +1,18 @@
+[submodule "crossbar-compose"]
+	path = crossbar-compose
+	url = https://github.com/HUBioDataLab/crossbar-compose
+[submodule "CROssBAR_LLM"]
+	path = CROssBAR_LLM
+	url = https://github.com/HUBioDataLab/CROssBAR_LLM
+[submodule "crossbar-tls-dumper"]
+	path = crossbar-tls-dumper
+	url = https://github.com/HUBioDataLab/crossbar-tls-dumper
+[submodule "crossbar-graphql"]
+	path = crossbar-graphql
+	url = https://github.com/HUBioDataLab/crossbar-graphql
+[submodule "CROssBAR-Data-Process"]
+	path = CROssBAR-Data-Process
+	url = https://github.com/HUBioDataLab/CROssBAR-Data-Process
+[submodule "CROssBARv2-KG"]
+	path = CROssBARv2-KG
+	url = https://github.com/HUBioDataLab/CROssBARv2-KG
