@@ -10,9 +10,6 @@
 [submodule "crossbar-graphql"]
 	path = crossbar-graphql
 	url = https://github.com/HUBioDataLab/crossbar-graphql
-[submodule "CROssBAR-Data-Process"]
-	path = CROssBAR-Data-Process
-	url = https://github.com/HUBioDataLab/CROssBAR-Data-Process
 [submodule "CROssBARv2-KG"]
 	path = CROssBARv2-KG
 	url = https://github.com/HUBioDataLab/CROssBARv2-KG

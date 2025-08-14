@@ -24,10 +24,6 @@
 
 Check the relevant [README](CROssBARv2-KG/README.md).
 
-## CROssBARv2 Data Process
-
-Check the relevant [README](CROssBAR-Data-Process/README.md).
-
 ## CROssBARv2 Compose
 
 This repository contains the unified docker compose file, of the services below.
