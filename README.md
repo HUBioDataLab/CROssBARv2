@@ -18,7 +18,11 @@
 
 # CROssBARv2: A Unified Biomedical Knowledge Graph for Heterogeneous Data Representation and LLM-Driven Exploration
 
+To clone this repository:
 
+```bash
+git clone --recurse-submodules https://github.com/HUBioDataLab/CROssBARv2
+```
 
 ## CROssBARv2 Knowledge Graph
 
