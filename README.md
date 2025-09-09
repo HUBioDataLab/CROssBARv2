@@ -38,6 +38,8 @@ git clone --recurse-submodules https://github.com/HUBioDataLab/CROssBARv2
 
 ## CROssBARv2 Knowledge Graph
 
+This repository provides adapter scripts for collecting, processing, and harmonizing biological data from a wide range of biomedical and biological sources. The adapters transform heterogeneous datasets into a standardized format that can be seamlessly imported into a Neo4j graph database.
+
 Check the relevant [README](CROssBARv2-KG/README.md).
 
 ## CROssBARv2 Compose
@@ -48,7 +50,7 @@ Check the relevant [README](crossbar-compose/README.md).
 
 ## CROssBARv2 LLM
 
-This repository contains the CROssBARv2 LLM.
+This repository contain frontend and backend scripts for CROssBARv2 LLM.
 
 Check the relevant [README](CROssBAR_LLM/README.md).
 
@@ -67,3 +69,9 @@ You can browse our KG with Neo4j.
 This repository contains the necessary TLS utils, to host Neo4j with Traefik.
 
 Check the relevant [README](crossbar-tls-dumper/README.md).
+
+
+# Cite
+
+
+# Licence
