@@ -18,6 +18,12 @@
 
 # CROssBARv2: A Unified Biomedical Knowledge Graph for Heterogeneous Data Representation and LLM-Driven Exploration
 
+## TL;DR
+
+**CROssBARv2** is a comprehensive computational framework that integrates large-scale biological and biomedical data into a unified knowledge graph (KG). The framework includes:
+
+- :arrows_counterclockwise: **Automated Data Integration:** Systematically processes and integrates data from 34 data sources, covering 14 node types and 51 edge types
+
 ## Abstract
 
 Biomedical discovery is hindered by fragmented, modality-specific repositories and uneven metadata, limiting integrative analysis, accessibility, and reproducibility. We present CROssBARv2, a provenance-rich biomedical data-and-knowledge integration platform that unifies heterogeneous sources into a maintainable, queryable system. By consolidating diverse data sources into an extensive knowledge graph enriched with ontologies, metadata, and deep learning-based vector embeddings, the system eliminates the need for researchers to navigate multiple, siloed databases and enables users to uncover novel insights. CROssBARv2 provides programmatic access, interactive exploration, embedding-based semantic search, and an intuitive natural language interface powered by large language models (LLMs). We assess CROssBARv2 through (i) multiple use-case analyses to test biological coherence; (ii) knowledge-augmented biomedical question-answering benchmarks comparing CROssBAR-LLM with up-to-date generalist LLMs; and (iii) a deep-learning–based predictive-modelling validation experiment for protein-function prediction using heterogeneous CROssBARv2 data. Collectively, CROssBARv2 offers a scalable and user-friendly foundation that facilitates hypothesis generation, knowledge discovery, and translational research.
