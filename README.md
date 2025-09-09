@@ -22,9 +22,13 @@
 
 Biomedical discovery is hindered by fragmented, modality-specific repositories and uneven metadata, limiting integrative analysis, accessibility, and reproducibility. We present CROssBARv2, a provenance-rich biomedical data-and-knowledge integration platform that unifies heterogeneous sources into a maintainable, queryable system. By consolidating diverse data sources into an extensive knowledge graph enriched with ontologies, metadata, and deep learning-based vector embeddings, the system eliminates the need for researchers to navigate multiple, siloed databases and enables users to uncover novel insights. CROssBARv2 provides programmatic access, interactive exploration, embedding-based semantic search, and an intuitive natural language interface powered by large language models (LLMs). We assess CROssBARv2 through (i) multiple use-case analyses to test biological coherence; (ii) knowledge-augmented biomedical question-answering benchmarks comparing CROssBAR-LLM with up-to-date generalist LLMs; and (iii) a deep-learning–based predictive-modelling validation experiment for protein-function prediction using heterogeneous CROssBARv2 data. Collectively, CROssBARv2 offers a scalable and user-friendly foundation that facilitates hypothesis generation, knowledge discovery, and translational research.
 
-## Pipeline
+## CROssBARv2 Workflow Overview
 
 ![Pipeline overview](images/workflow.png)
+
+**Figure 1. Overview of the CROssBARv2 workflow.** (a) Integration of data from 34 well-established sources covering various biomedical domains. (b) Automatic retrieval, standardisation, and integration of source data using modular adapter scripts. (c) CROssBARv2 KG schema, comprising 14 node types and 51 edge types. (d) Storage of the KG in a Neo4j graph database, along with rich metadata and node embeddings computed using deep learning-based methods. (e) Execution of the CROssBAR-LLM workflow, which translates natural language queries into Cypher, executes the queries on KG, and synthesizes structured results into natural language responses; also supports vector-based similarity search. (f) Exploration of the KG through three interfaces: natural language querying via LLM interface, programmatic access via GraphQL API, and interactive visual exploration via the Neo4j browser.
+
+# Download / Usage
 
 To clone this repository:
 
