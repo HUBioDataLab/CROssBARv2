@@ -38,6 +38,41 @@ Biomedical discovery is hindered by fragmented, modality-specific repositories a
 
 **Figure 1. Overview of the CROssBARv2 workflow.** (a) Integration of data from 34 well-established sources covering various biomedical domains. (b) Automatic retrieval, standardisation, and integration of source data using modular adapter scripts. (c) CROssBARv2 KG schema, comprising 14 node types and 51 edge types. (d) Storage of the KG in a Neo4j graph database, along with rich metadata and node embeddings computed using deep learning-based methods. (e) Execution of the CROssBAR-LLM workflow, which translates natural language queries into Cypher, executes the queries on KG, and synthesizes structured results into natural language responses; also supports vector-based similarity search. (f) Exploration of the KG through three interfaces: natural language querying via LLM interface, programmatic access via GraphQL API, and interactive visual exploration via the Neo4j browser.
 
+---
+
+# The CROssBARv2 Web Platform
+
+The easiest way to experience CROssBARv2 is through our interactive web platform. It provides multiple interfaces tailored for different use cases, from natural language chat to interactive, visual exploration. Check out our website [here](https://crossbarv2.hubiodatalab.com/).
+
+
+
+## Chat with the CROssBARv2
+
+Interact with the CROssBARv2 database using natural language. Through the **Graph Explorer**, you can navigate direct relationships between entities, retrieving structured facts and connections from the graph. The **Semantic Search** feature, powered by embeddings, enables the discovery of biologically meaningful patterns by identifying similarities between entities, that go beyond direct graph links.
+
+**[Try the CROssBAR-LLM](https://crossbarv2.hubiodatalab.com/llm)**
+
+![crossbar-llm](https://crossbarv2.hubiodatalab.com/static/images/llm.avif)
+
+
+## Programmatic Access with Apollo GraphQL API
+
+Access the CROssBARv2 database programmatically using a flexible GraphQL interface. You can build custom, nested queries to retrieve precisely the data you need. It's ideal for integrating CROssBARv2 into your analytical workflows or applications, and supports seamless development with tools like Apollo Studio.
+
+**[Explore the API in Apollo Studio](https://crossbarv2.hubiodatalab.com/api)**
+
+![graphql](https://crossbarv2.hubiodatalab.com/static/images/graphql.avif)
+
+## Manually explore with Neo4j Browser
+
+Explore the CROssBARv2 knowledge graph visually through the Neo4j Browser interface. This interactive tool lets you run Cypher queries, visualize nodes and relationships, and investigate the structure of the graph in detail.
+
+**[Open the Neo4j Browser](https://neo4j.crossbarv2.hubiodatalab.com/browser/?preselectAuthMethod=[NO_AUTH]&dbms=bolt://neo4j.crossbarv2.hubiodatalab.com)**
+
+![neo4j-browser](https://crossbarv2.hubiodatalab.com/static/images/neo4j.avif)
+
+---
+
 # Download / Usage
 
 To clone this repository:
