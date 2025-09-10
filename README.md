@@ -44,8 +44,6 @@ Biomedical discovery is hindered by fragmented, modality-specific repositories a
 
 The easiest way to experience CROssBARv2 is through our interactive web platform. It provides multiple interfaces tailored for different use cases, from natural language chat to interactive, visual exploration. Check out our website [here](https://crossbarv2.hubiodatalab.com/).
 
-
-
 ## Chat with the CROssBARv2
 
 Interact with the CROssBARv2 database using natural language. Through the **Graph Explorer**, you can navigate direct relationships between entities, retrieving structured facts and connections from the graph. The **Semantic Search** feature, powered by embeddings, enables the discovery of biologically meaningful patterns by identifying similarities between entities, that go beyond direct graph links.
@@ -53,7 +51,6 @@ Interact with the CROssBARv2 database using natural language. Through the **Grap
 **[Try the CROssBAR-LLM](https://crossbarv2.hubiodatalab.com/llm)**
 
 ![crossbar-llm](https://crossbarv2.hubiodatalab.com/static/images/llm.avif)
-
 
 ## Programmatic Access with Apollo GraphQL API
 
@@ -81,7 +78,7 @@ To clone this repository:
 git clone --recurse-submodules https://github.com/HUBioDataLab/CROssBARv2
 ```
 
-## CROssBARv2 Knowledge Graph
+## CROssBARv2 KG
 
 This repository provides adapter scripts for collecting, processing, and harmonizing biological data from a wide range of biomedical and biological sources. The adapters transform heterogeneous datasets into a standardized format that can be seamlessly imported into a Neo4j graph database.
 
