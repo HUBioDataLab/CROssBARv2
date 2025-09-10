@@ -24,9 +24,9 @@
 
 - :arrows_counterclockwise: **Automated Data Integration**: Systematically processes and integrates data from 34 data sources, covering 14 node types and 51 edge types
 - :mag: **Vector Search**: Includes node embeddings for ML applications and efficient semantic similarity searches
-- :speech_balloon: **LLM-Powered Chat**: Integrates a Large Language Model (CROssBAR-LLM) for answering scientific questions using natural language.
+- :speech_balloon: **LLM-Powered Chat**: Integrates Large Language Models (CROssBAR-LLM) for answering scientific questions using natural language.
 - :globe_with_meridians: **User-Friendly Platform**: Provides an intuitive online interface with fast queries, interactive visualizations, and an API for easy access, even for non-programmers.
-- 📊 **Validation & Applications**: Demonstrated utility through biomedical use-cases, literature validation, benchmarking of LLMs vs. CROssBAR-LLM for scientific Q&A, and deep learning experiments on protein function prediction.
+- :bar_chart: **Validation & Applications**: Demonstrated utility through biomedical use-cases, literature validation, benchmarking of LLMs vs. CROssBAR-LLM for scientific Q&A, and deep learning experiments on protein function prediction.
 
 ## Abstract
 
