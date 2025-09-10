@@ -65,7 +65,7 @@ Access the CROssBARv2 database programmatically using a flexible GraphQL interfa
 
 ## Manually explore with Neo4j Browser
 
-Explore the CROssBARv2 knowledge graph visually through the Neo4j Browser interface. This interactive tool lets you run Cypher queries, visualize nodes and relationships, and investigate the structure of the graph in detail.
+Explore the CROssBARv2 KG visually through the Neo4j Browser interface. This interactive tool lets you run Cypher queries, visualize nodes and relationships, and investigate the structure of the graph in detail.
 
 **[Open the Neo4j Browser](https://neo4j.crossbarv2.hubiodatalab.com/browser/?preselectAuthMethod=[NO_AUTH]&dbms=bolt://neo4j.crossbarv2.hubiodatalab.com)**
 
