@@ -115,5 +115,18 @@ Check the relevant [README](crossbar-tls-dumper/README.md).
 
 # Cite
 
+```
+@article{Sen_2025_CROssBARv2,
+  author    = {Bünyamin Şen and Erva Ulusoy and Melih Darcan and Mert Ergün and Sebastian Lobentanzer and Ahmet S. Rifaioglu and Dénes Türei and Julio Saez-Rodriguez and Tunca Doğan},
+  title     = {CROssBARv2: A Unified Biomedical Knowledge Graph for Heterogeneous Data Representation and LLM-Driven Exploration},
+  journal   = {Journal Name},
+  year      = {2025},
+  volume    = {XX},
+  number    = {X},
+  pages     = {XXX--XXX},
+  doi       = {10.XXXX/journal.XXXXXXX},
+  note      = {Project website available at \url{https://crossbarv2.hubiodatalab.com}}
+}
+```
 
 # Licence
