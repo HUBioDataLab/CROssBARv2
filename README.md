@@ -11,8 +11,8 @@
 <div align="center">
     <a href="https://crossbarv2.hubiodatalab.com"><img alt="website-badge" src="https://img.shields.io/website?url=https://crossbarv2.hubiodatalab.com/"></a>
     <!-- <a href="https://biorxiv.org"><img alt="biorxiv-badge" src="https://img.shields.io/badge/bioRxiv.svg"></a> -->
-    <!-- <img alt="github-star-badge" src="https://img.shields.io/github/stars/HUBioDataLab/CROssBARv2"> -->
-    <!-- <img alt="github-license-badge" src="https://img.shields.io/github/license/HUBioDataLab/CROssBARv2"> -->
+    <img alt="github-star-badge" src="https://img.shields.io/github/stars/HUBioDataLab/CROssBARv2">
+    <img alt="github-license-badge" src="https://img.shields.io/github/license/HUBioDataLab/CROssBARv2">
 </div>
 <br>
 
@@ -82,25 +82,25 @@ git clone --recurse-submodules https://github.com/HUBioDataLab/CROssBARv2
 
 This repository provides adapter scripts for collecting, processing, and harmonizing biological data from a wide range of biomedical and biological sources. The adapters transform heterogeneous datasets into a standardized format that can be seamlessly imported into a Neo4j graph database.
 
-Check the relevant [README](CROssBARv2-KG/README.md).
+Check the relevant [README](https://github.com/HUBioDataLab/CROssBARv2-KG).
 
 ## CROssBARv2 Compose
 
 This repository contains the unified docker compose file, of the services below.
 
-Check the relevant [README](crossbar-compose/README.md).
+Check the relevant [README](https://github.com/HUBioDataLab/crossbar-compose).
 
 ## CROssBARv2 LLM
 
 This repository contain frontend and backend scripts for CROssBARv2 LLM.
 
-Check the relevant [README](CROssBAR_LLM/README.md).
+Check the relevant [README](https://github.com/HUBioDataLab/CROssBAR_LLM).
 
 ## CROssBARv2 GraphQL
 
 This repository contains the GraphQL API interface of CROssBARv2 KG, which is useful for programmatic data retrieval.
 
-Check the relevant [README](crossbar-graphql/README.md).
+Check the relevant [README](https://github.com/HUBioDataLab/crossbar-graphql).
 
 ## CROssBARv2 Browser
 
@@ -110,7 +110,7 @@ You can browse our KG with Neo4j.
 
 This repository contains the necessary TLS utils, to host Neo4j with Traefik.
 
-Check the relevant [README](crossbar-tls-dumper/README.md).
+Check the relevant [README](https://github.com/HUBioDataLab/crossbar-tls-dumper).
 
 
 # Cite
@@ -130,8 +130,6 @@ Check the relevant [README](crossbar-tls-dumper/README.md).
 ```
 
 # Licence
-
-## Licence 📜
 
 This project is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.
 
