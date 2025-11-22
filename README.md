@@ -82,6 +82,10 @@ git clone --recurse-submodules https://github.com/HUBioDataLab/CROssBARv2
 
 This repository provides adapter scripts for collecting, processing, and harmonizing biological data from a wide range of biomedical and biological sources. The adapters transform heterogeneous datasets into a standardized format that can be seamlessly imported into a Neo4j graph database.
 
+### Data
+
+Neo4j-importable CSV files required to reconstruct the KG are publicly available at https://drive.google.com/file/d/1KoMAxlvy_4IOo8MPi4TrSbMlQtBf8Pch/view?usp=sharing.
+
 Check the relevant [README](https://github.com/HUBioDataLab/CROssBARv2-KG).
 
 ## CROssBARv2 Compose
