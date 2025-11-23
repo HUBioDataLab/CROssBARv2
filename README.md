@@ -18,6 +18,25 @@
 
 # CROssBARv2: A Unified Biomedical Knowledge Graph for Heterogeneous Data Representation and LLM-Driven Exploration
 
+- [CROssBARv2: A Unified Biomedical Knowledge Graph for Heterogeneous Data Representation and LLM-Driven Exploration](#crossbarv2-a-unified-biomedical-knowledge-graph-for-heterogeneous-data-representation-and-llm-driven-exploration)
+  - [TL;DR](#tldr)
+  - [Abstract](#abstract)
+  - [CROssBARv2 Workflow Overview](#crossbarv2-workflow-overview)
+- [The CROssBARv2 Web Platform](#the-crossbarv2-web-platform)
+  - [Chat with the CROssBARv2](#chat-with-the-crossbarv2)
+  - [Programmatic Access with Apollo GraphQL API](#programmatic-access-with-apollo-graphql-api)
+  - [Manually explore with Neo4j Browser](#manually-explore-with-neo4j-browser)
+- [Download / Usage](#download--usage)
+  - [CROssBARv2 KG](#crossbarv2-kg)
+    - [Data](#data)
+  - [CROssBARv2 Compose](#crossbarv2-compose)
+  - [CROssBARv2 LLM](#crossbarv2-llm)
+  - [CROssBARv2 GraphQL](#crossbarv2-graphql)
+  - [CROssBARv2 Browser](#crossbarv2-browser)
+  - [CROssBARv2 TLS Dumper](#crossbarv2-tls-dumper)
+- [Cite](#cite)
+- [License](#license)
+
 ## TL;DR
 
 **CROssBARv2** is a comprehensive computational framework that integrates large-scale biological and biomedical data into a unified knowledge graph (KG). The framework includes:
