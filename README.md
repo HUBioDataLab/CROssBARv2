@@ -84,7 +84,7 @@ This repository provides adapter scripts for collecting, processing, and harmoni
 
 ### Data
 
-Neo4j-importable CSV files required to reconstruct the KG are publicly available at https://drive.google.com/file/d/1KoMAxlvy_4IOo8MPi4TrSbMlQtBf8Pch/view?usp=sharing.
+Neo4j-importable CSV files required to reconstruct the KG are publicly available at [here](https://drive.google.com/file/d/1KoMAxlvy_4IOo8MPi4TrSbMlQtBf8Pch/view?usp=sharing).
 
 Check the relevant [README](https://github.com/HUBioDataLab/CROssBARv2-KG).
 
